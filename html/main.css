@@ -1,0 +1,287 @@
+a {
+    vertical-align: baseline;
+}
+
+.back_page {
+    color: #bbbbbb;
+    display: inline;
+    word-spacing: 10px;
+    text-align: left;
+    vertical-align: middle;
+    margin-left: 160px;
+}
+
+h1 {
+    color: #ffffff;
+}
+
+.moon-infarmation {
+    margin-top: 100px;
+    margin-left: 200px;
+    color: #bbbbbb;
+}
+
+.bottom {
+    color: #000000;
+    border-radius: 100px;
+    background: #ffcb06;
+    padding: 15px;
+    margin-top: 100px;
+    margin-right: 850px
+}
+
+.info {
+    background-color: #131313;
+}
+
+body {
+    background-color: #222222;
+}
+
+.for_foto {
+    word-spacing: 180px;
+    margin-left: 100px;
+    display: inline;
+}
+
+h6 {
+    font-size: 13px;
+    color: #bbbbbb;
+}
+
+.for_photo {
+    word-spacing: 180px;
+    display: inline;
+}
+
+.for-text {
+    margin-left: 180px;
+}
+
+.for_photo0.1 {
+    margin-left: 100px;
+}
+
+.on_map {
+    background-color: #ffffff;
+    color: #000000;
+}
+
+.margin {
+    margin-left: 160px;
+}
+
+.href {
+    margin-left: 1250px;
+    margin-top: -20px;
+}
+
+.gg {
+    margin-top: 1000px;
+}
+
+.moon-photo {
+    margin-top: -300px;
+    margin-left: 600px;
+}
+
+.sd1 {
+    color: #bbbbbb;
+    margin-left: -180px;
+}
+
+.sd2 {
+    color: #bbbbbb;
+    margin-left: 65px;
+    margin-top: -70px;
+}
+
+.sd3 {
+    color: #bbbbbb;
+    margin-left: 310px;
+    margin-top: -70px;
+}
+
+.sd4 {
+    color: #bbbbbb;
+    margin-left: 550px;
+    margin-top: -70px;
+}
+
+.intro {
+    margin-left: 700px;
+    margin-top: -370px;
+}
+
+.you_need {
+    margin-top: 100px;
+}
+
+.dont_take {
+    margin-left: 700px;
+    margin-top: -180px;
+}
+
+footer {
+    color: #bbbbbb;
+    background-color: #131313;
+}
+
+.name {
+    margin-left: 100px;
+    margin-top: -55px;
+}
+
+.color_for_bottom {
+    color: #00000;
+}
+
+.color_head_href {
+    color: #000000;
+}
+
+.OOO {
+    margin-top: 75px;
+
+}
+
+.company {
+    margin-left: 300px;
+    margin-top: -155px;
+    margin-right: 700px;
+}
+
+.cat {
+    margin-left: 600px;
+    margin-top: -150px;
+    margin-right: 400px;
+}
+
+.cont {
+    margin-left: 900px;
+    margin-top: -151px;
+    margin-right: 100px;
+}
+
+h3 {
+    border-bottom: 1px solid #bbbbbb;
+}
+li {
+    list-style-type: none;
+}
+
+span {
+    color: black;
+}
+
+li:before {
+ font-family: 'Montserrat', sans-serif;
+ font-weight: 400;
+ color: #ffcb06;
+ content: "•";
+ padding-right: 7px;
+}
+.form {
+    background-color: #f0f0f0;
+}
+
+.text_form {
+    color: c8c8c8;
+}
+
+h2 {
+    color: #232323;
+}
+
+.bottom_for_forum {
+    color: white;
+    border-radius: 100px;
+    background: black;
+    padding: 15px;
+    margin-right: 320px
+}
+
+.forum_input {
+    margin-left: 650px;
+    margin-top: -175px;
+}
+
+.timetable {
+    
+}
+
+h4 {
+    font-size: 25px;
+    color: #fecb06;
+}
+
+.info-timetable {
+    color: white;
+    margin-left: 650px;
+    margin-top: -85px;
+}
+
+.timetable-of-flying {
+    color: white;
+}
+
+.flying-top {
+    background-color: black;
+    padding: 5px;
+    margin-right: 80px;
+    border-bottom: 1px solid #bbbbbb;
+}
+
+.number {
+    
+}
+
+.place {
+    margin-left: 300px;
+    margin-top: -34px;
+}
+
+.time-start {
+    margin-left: 600px;
+    margin-top: -34px;
+}
+
+.time-finish {
+    margin-left: 900px;
+    margin-top: -34px;
+}
+
+.flying-first {
+    padding: 5px;
+    margin-right: 80px;
+    border-bottom: 1px solid #bbbbbb;
+}
+
+.first-arrow {
+    margin-left: 225px;
+    margin-top: -17px;
+}
+
+.second-arrow {
+    margin-left: 150px;
+    margin-top: -17px;
+}
+
+input {
+    height: 35px;
+}
+
+#check {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+label {
+    margin-top: -px;
+}
+
+h5 {
+    margin-top: -35px;
+    margin-left: 30px;
+    font-size: 15px;
+}
